@@ -1,0 +1,11 @@
+nav ul {
+    display: flex;
+    width: 431px;
+    justify-content: space-between;
+    Height:26px;
+    Top:63px;
+    Left:508px;
+}
+li {
+    list-style-type: none
+}

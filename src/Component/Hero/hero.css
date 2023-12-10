@@ -1,0 +1,75 @@
+.container{
+    display: flex;
+    width: 100%;
+    border: 2px solid yellow;
+    justify-content: center;
+    padding: 20px 20px;
+}
+
+ .outer{
+    display: flex;
+    flex-direction: column;
+    width: 571px;
+    row-gap: 32px;
+}
+
+.innrtext{
+    font-weight: 500;
+    font-size: 66px;
+    line-height: 97.37px;
+}
+
+.paragraph{
+    width: 560px;
+    height: 99px;
+    top: 480px;
+    left: 158px;
+    opacity: 30%;
+    font-weight: 500;
+    font-size: 18;
+}
+
+.email{
+    position: relative;
+}
+
+.email input{
+ width: 438px;
+ height: 74px;
+ top: 615px;
+ left: 154px;
+border-radius: 43px;
+opacity: 0.1;
+}
+
+.email button{
+    position: absolute;
+    width: 137px;
+    height: 62px;
+    border-radius: 43px;
+    background-color: var(--primary-color);
+    top: 5px;
+    transform: translateX(-105%)
+}
+.heroimg{
+    padding-top: 50px;
+ width: 443.51px;
+ height: 509.07px;
+ top: 172px;
+ left: 832.32px
+}
+.background{
+ width: 420px;
+ height: 420px;
+ top: 249px;
+ left: 820px;
+ border-radius: 55px;
+ background-color: var(--primary-color);
+}
+
+.lawyer{
+    position: absolute;
+    height: 470.71px;
+    top: 100px;
+    border-radius: 55px;
+}
