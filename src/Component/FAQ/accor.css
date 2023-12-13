@@ -1,0 +1,29 @@
+.accordcont .accordlayer{
+    background-color: var(--secondary-color);
+    /* width: 10rem; */
+    /* border: 2px solid white; */
+    border-bottom: 2px solid rgba(255, 255, 255, 0.05);
+}
+
+.accordlayer .accorheading{
+    color: var(--pure-white, #FFF);
+    font-family: Inter;
+    /* font-size: 24px; */
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    width: 400px;
+    padding: 15px 0;
+}
+
+.accordlayer .accordans{
+    width: 557px;
+    opacity: 0.3;
+    color: var(--pure-white, #FFF);
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 162.523%;
+        /* 29.254px */
+}

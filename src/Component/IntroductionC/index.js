@@ -4,7 +4,7 @@ import Ccard from '../Card';
 
 const Intro = () => {
   return (
-    <div className='introd' id='about-us'>
+    <div className='introd' >
            <div className='introcon'>
             <div style={{width:"387px",fontSize:"54px"}}>
                 Let's introduce Ourselves

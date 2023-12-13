@@ -1,0 +1,54 @@
+.clientcont{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 10rem;
+}
+
+.clientcard{
+    display: flex;
+    column-gap: 200px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.clientheading{
+    width: 374px;
+  height: 154px;
+  top: 3585px;
+  left: 155px;
+  font-family: Inter;
+font-size: 54px;
+font-weight: 600;
+line-height: 77px;
+letter-spacing: 0em;
+text-align: left;
+color: var(--white-color);
+}
+
+.clientbtn{
+    display: flex;
+    width: 200px;
+height: 92.85px;
+gap: 5px;
+margin: 30px;
+}
+
+.clientbtn button{
+    border-radius: 50%;
+    width: 120px;
+height: auto;
+margin: 5px;
+}
+
+.clientbtn img{
+    width: 38.48px;
+height: 38.48px;
+padding: 6.41px, 11.22px, 6.41px, 11.22px;
+}
+
+.clientdata{
+    display: flex;
+    column-gap: 30px;
+   margin: 20px;
+}

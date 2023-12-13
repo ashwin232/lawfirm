@@ -1,0 +1,25 @@
+.footcont{
+row-gap: 4rem;
+display: flex;
+justify-content:space-between;
+flex-direction: column;
+padding: 121px 164px 99px 164px;
+}
+
+.footlogo{
+    display: flex;
+    justify-content: space-between;
+align-items: center;
+}
+
+.iconcont{
+    display: flex;
+    column-gap: 1rem;
+    cursor: pointer;
+}
+
+.footcnt{
+    display: flex;
+    justify-content: center;
+    column-gap: 2rem;
+}
